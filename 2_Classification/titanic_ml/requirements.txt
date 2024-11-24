@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+numpy
+matplotlib
+seaborn
+pipreqs  # For generating requirements automatically
